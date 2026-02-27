@@ -1,3 +1,4 @@
 SAME_LINE=BRANCH1
 1
 2
+3
