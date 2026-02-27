@@ -1,1 +1,1 @@
-qwerty12
+SAME_LINE=BRANCH1
